@@ -3,7 +3,7 @@
 
 I work with:
 
-= Java / Kotlin
+- Java / Kotlin
 - Swift
 - Python
 - JavaScript (React/Node.js)
