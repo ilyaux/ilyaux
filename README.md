@@ -10,7 +10,7 @@ I work with:
 
 I am interested in:
 
--Rust
+- Rust
 
 The tools I use:
 
