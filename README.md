@@ -2,12 +2,14 @@
 ## I am a mobile developer and security architect.
 
 I work with:
+
 = Java / Kotlin
 - Swift
 - Python
 - JavaScript (React/Node.js)
 
 I am interested in:
+
 -Rust
 
 The tools I use:
