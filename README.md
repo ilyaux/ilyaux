@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Serial_Experiments_Lain">
     <img
-      src="https://raw.githubusercontent.com/ilyaux/ilyaux/main/171375.gif"
+      src="https://raw.githubusercontent.com/ilyaux/ilyaux/main/171343.gif"
       alt="Serial Experiments Lain"
       width="350"
     />
